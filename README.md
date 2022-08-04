@@ -55,10 +55,10 @@ dependencies {
 
 ##### agconnect-services.json
 ```app
-Add agconnect-services.json file under app directory
+Add agconnect-services.json file under app directory that you get from AG Connect console
 ```
 
-## Use
+## Usage
 
 ```kotlin
 // Creates an AdvancedLocation object
